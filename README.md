@@ -8,8 +8,8 @@ Built using **HTML, CSS, JavaScript, PHP, and MySQL**.
 ## 📸 Screenshots
 
 ![Homepage](homepage.png)
-![Cart Page](images/cart.png)
-![Checkout Page](images/checkout.png)
+![Cart Page](cart.png)
+![Checkout Page](checkout.png)
 
 ---
 
