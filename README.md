@@ -7,7 +7,7 @@ Built using **HTML, CSS, JavaScript, PHP, and MySQL**.
 
 ## 📸 Screenshots
 
-![Homepage](images/homepage.png)
+![Homepage](homepage.png)
 ![Cart Page](images/cart.png)
 ![Checkout Page](images/checkout.png)
 
