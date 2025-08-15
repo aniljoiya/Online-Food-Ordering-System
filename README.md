@@ -11,9 +11,6 @@ Built using **HTML, CSS, JavaScript, PHP, and MySQL**.
 ![Cart Page](images/cart.png)
 ![Checkout Page](images/checkout.png)
 
-> Place your screenshots inside a folder named `images` in your repository,  
-> and make sure the file names match exactly.
-
 ---
 
 ## 🚀 Features
@@ -67,6 +64,6 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ## 👨‍💻 Author
 
 **Anil Joiya**  
-📧 Email: your-email@example.com  
-🌐 GitHub: [yourusername](https://github.com/yourusername)
+📧 Email: aniljoya23.com  
+🌐 GitHub: [aniljoiya](https://github.com/aniljoiya)
 
